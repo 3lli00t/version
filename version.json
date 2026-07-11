@@ -1,0 +1,10 @@
+{
+  "versao": "2.2",
+  "url_download": "https://github.com/elliot/PobreMobills/releases/latest",
+  "novidades": [
+    "Extrato separado em Pendentes e Realizados",
+    "Botão para alternar a ordenação (crescente/decrescente)",
+    "Atualização automática da data ao pagar contas antecipadamente",
+    "Verificador automático de novas versões do sistema"
+  ]
+}
