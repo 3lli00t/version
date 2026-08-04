@@ -2,9 +2,6 @@
   "versao": "2.5",
   "url_download": "https://github.com/3lli00t/version/releases/download/v2.5/Pobre_Mobills_Install_v2_5.exe",
   "novidades": [
-    "Extrato separado em Pendentes e Realizados",
-    "Botão para alternar a ordenação (crescente/decrescente)",
-    "Atualização automática da data ao pagar contas antecipadamente",
-    "Verificador automático de novas versões do sistema"
+    "\"Foi adicionado a função de utilizar operadores lógicos dentro dos inputs de valores\""
   ]
 }
